@@ -1,3 +1,2 @@
 # Hello-world
-it is my first project
-hloo
+print("hello World")
